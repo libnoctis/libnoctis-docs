@@ -1,0 +1,31 @@
+{
+  "name": "libnoctis-docs",
+  "version": "1.0.0",
+  "description": "The Libnoctis documentation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/libnoctis/libnoctis-docs.git"
+  },
+  "keywords": [
+    "libnoctis",
+    "ui",
+    "universal",
+    "documentation",
+    "doc",
+    "docs",
+    "open",
+    "source",
+    "open-source",
+    "library"
+  ],
+  "author": "Adrien \"Litarvan\" Navratil & Victor \"Wytrem\"",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/libnoctis/libnoctis-docs/issues"
+  },
+  "homepage": "https://github.com/libnoctis/libnoctis-docs#readme"
+}
